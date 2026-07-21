@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "yzhang.markdown-all-in-one",
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "pkief.material-icon-theme"
+  ]
+}

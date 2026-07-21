@@ -1,0 +1,14 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1500,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "markdown.preview.breaks": true,
+  "markdown.validate.enabled": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "explorer.confirmDelete": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
+}

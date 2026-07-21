@@ -1,0 +1,29 @@
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code local state
+.vscode/*.log
+
+# Recordings and large media
+*.mp4
+*.mkv
+*.mov
+*.avi
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Secrets
+.env
+*.pem
+*.key
+secrets/
+credentials/
+
+# Packet Tracer autosave or temporary files
+*.pka.autosave
