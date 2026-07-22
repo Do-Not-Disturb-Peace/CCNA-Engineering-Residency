@@ -8,7 +8,7 @@
   "terminal.integrated.defaultProfile.windows": "PowerShell",
   "git.autofetch": true,
   "git.confirmSync": false,
-  "explorer.confirmDelete": true,
+  "explorer.confirmDelete": false,
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true
 }

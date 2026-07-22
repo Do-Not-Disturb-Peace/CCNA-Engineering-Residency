@@ -195,4 +195,4 @@ This process reinforces engineering discipline and supports long-term skill deve
 
 ## License
 
-This repository is maintained as a personal educational and professional development portfolio.
+This repository is maintained as a personal educational and professional development portfolio
