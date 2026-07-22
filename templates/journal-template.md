@@ -1,31 +1,249 @@
-# Network Engineering Journal — Day [NUMBER]
+# Daily Network Engineering Journal
 
-## Ticket Summary
+**Day:**
+**Date:**
+**Phase:**
+**Deployment:**
+**Engineer:** LaToya Ellis
 
-## What I Built
+---
 
-## Concepts I Can Explain Clearly
+# Today's Mission
 
-## Concepts That Still Feel Weak
+What was today's deployment objective?
 
-## Commands I Used Most
+---
 
-## Mistakes I Made
+# Business Scenario
 
-## How I Diagnosed Them
+Describe the customer or business requirement that today's deployment solved.
 
-## Root Cause Versus Symptom
+---
 
-## What I Would Do Differently
+# Planned Tasks
 
-## If I Were Teaching This to a New Technician
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 
-## What I Would Automate Later
+---
 
-## Confidence
+# Topics Studied
 
-Score: /10
+## Official Cert Guide
 
-Reason:
+Volume:
 
-## Questions for Senior Engineer
+Chapters:
+
+Key Topics:
+
+Pages:
+
+---
+
+## Kevin Wallace
+
+Lesson(s):
+
+Duration:
+
+Important Takeaways:
+
+---
+
+## Additional Resources
+
+Cisco Documentation:
+
+Articles:
+
+Videos:
+
+Notes:
+
+---
+
+# Lab Environment
+
+Packet Tracer File:
+
+Devices Used:
+
+Routers:
+
+Switches:
+
+PCs:
+
+Servers:
+
+Wireless Devices:
+
+---
+
+# Network Built Today
+
+Describe today's network.
+
+- VLANs
+- Routing
+- Security
+- Services
+- Redundancy
+- Internet Access
+
+---
+
+# Commands Learned
+
+```text
+```
+
+---
+
+# Commands I Want to Remember
+
+```text
+```
+
+---
+
+# Troubleshooting Notes
+
+| Time | Problem | Investigation | Solution |
+| ---- | ------- | ------------- | -------- |
+|      |         |               |          |
+
+---
+
+# Mistakes I Made Today
+
+-
+-
+-
+
+---
+
+# What Caused the Mistakes?
+
+-
+-
+-
+
+---
+
+# How I Fixed Them
+
+-
+-
+-
+
+---
+
+# New Concepts Learned
+
+-
+-
+-
+
+---
+
+# Biggest Lesson Today
+
+Describe the most important thing learned today.
+
+---
+
+# Confidence Rating
+
+| Skill           | Rating (1–5) |
+| --------------- | :----------: |
+| CLI Navigation  |              |
+| Switching       |              |
+| Routing         |              |
+| Troubleshooting |              |
+| Documentation   |              |
+
+---
+
+# Time Tracking
+
+| Activity        | Time |
+| --------------- | ---- |
+| Reading         |      |
+| Kevin Wallace   |      |
+| Packet Tracer   |      |
+| Troubleshooting |      |
+| Documentation   |      |
+| GitHub          |      |
+| Recording       |      |
+
+**Total Time:**
+
+---
+
+# Evidence Created
+
+- [ ] Packet Tracer Lab
+- [ ] Engineering Ticket
+- [ ] Lab Report
+- [ ] Network Diagram
+- [ ] Screenshots
+- [ ] Verification Output
+- [ ] Git Commit
+- [ ] OBS Recording
+
+---
+
+# Git Commit
+
+Commit Message:
+
+Commit Hash:
+
+---
+
+# Tomorrow's Objectives
+
+1.
+
+2.
+
+3.
+
+---
+
+# Questions to Research
+
+-
+-
+-
+
+---
+
+# Personal Reflection
+
+Answer these briefly:
+
+**What challenged me the most today?**
+
+---
+
+**What finally "clicked" today?**
+
+---
+
+**If I rebuilt this lab tomorrow, what would I do differently?**
+
+---
+
+**What is one thing I can improve before the next deployment?**
+
+---
+
+# End-of-Day Summary
+
+Summarize today's work in 3–5 sentences.
