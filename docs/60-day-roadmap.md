@@ -1,6 +1,7 @@
 # 60-Day Real-World Deployment Roadmap
 
 **Duration:** 60 Days
+
 **Objective:** Build practical network engineering skills through enterprise-style deployments while preparing for the Cisco CCNA (200-301) certification.
 
 This roadmap is organized by deployment outcomes. Exact Official Cert Guide chapter numbers depend on the edition. Use the listed topic titles to locate the matching chapters in your volumes. Kevin Wallace assignments should be selected by the same topic names in the course curriculum.
