@@ -1,4 +1,4 @@
-# Workspace Setup Guide
+# Engineering Workspace Setup
 
 ## 1. Create the GitHub Repository
 
@@ -59,6 +59,15 @@ git branch -M main
 git remote add origin https://github.com/Do-Not-Disturb-Peace/CCNA-Engineering-Residency.git
 git push -u origin main
 ```
+
+> **Note:** These commands are intended for the initial setup of the repository. Once the repository has been created and connected to GitHub, future work should use:
+
+```powershell
+git add .
+git commit -m "Describe the completed work"
+git push
+```
+
 
 GitHub may open a browser authentication window. Approve the sign-in.
 
@@ -131,7 +140,7 @@ Use:
 
 Export public diagrams as PNG into `images/`.
 
-## 10. Monday Readiness Test
+## 10. Residency Readiness Checklist
 
 Before Monday, confirm all five items:
 
