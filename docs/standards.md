@@ -1,4 +1,20 @@
-# Documentation and Naming Standards
+# Engineering Documentation Standards
+
+**Project:** CCNA Engineering Residency
+**Version:** 2.0
+**Status:** Active
+**Owner:** LaToya Ellis
+**Last Updated:** July 2026
+
+---
+
+## Purpose
+
+This document establishes the documentation, naming, and version control standards used throughout the CCNA Engineering Residency.
+
+The objective is to ensure every deployment is documented consistently and can be understood, reproduced, and verified by another engineer.
+
+---
 
 ## Device Naming
 
